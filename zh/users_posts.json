@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "你好，世界",
+      "author": "鸡"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "一些文字",
+      "postId": "我不知道"
+    }
+  ],
+  "profile": {
+    "name": "埃内斯托"
+  }
+}

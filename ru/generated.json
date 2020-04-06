@@ -1,0 +1,227 @@
+{
+  "0": {
+    "_id": "5e86f3ded97c7fd55884b216",
+    "index": 0,
+    "guid": "6ee4bffb-b2c9-4a92-9d6f-021d91fe8a8f",
+    "isActive": "ложный",
+    "balance": "$ 1,211.00",
+    "picture": "http://placehold.it/32x32",
+    "age": 39,
+    "eyeColor": "зеленый",
+    "name": "Райан Хэмптон",
+    "gender": "мужчина",
+    "company": "ZYTREK",
+    "email": "ryanhampton@zytrek.com",
+    "phone": "+1 (927) 514-3905",
+    "address": "350 Dewey Place, Bethpage, Виргинские острова, 303",
+    "about": "Tempor labore cillum qui officia aliqua proident quis irure amet expteur. Esse amet mollit sit Lorem amet quis enim aliqua eiusmod cillum велит ullamco. Упражнения для сундуков Laborum sint Lorem ullamco pariatur ad dolore ipsum incididunt veniam.\r\n",
+    "registered": "2017-06-04T07: 13: 36 -03: 00",
+    "latitude": -89.0,
+    "longitude": 129.510969,
+    "tags": [
+      "Nulla",
+      "consequat",
+      "officia",
+      "Лаборе",
+      "боль",
+      "pariatur",
+      "кульпа"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Баркер Тодд"
+      },
+      {
+        "id": 1,
+        "name": "Симпсон Орр"
+      },
+      {
+        "id": 2,
+        "name": "Тара Наварро"
+      }
+    ],
+    "greeting": "Привет, Райан Хэмптон! У вас есть 10 непрочитанных сообщений.",
+    "favoriteFruit": "клубника"
+  },
+  "1": {
+    "_id": "5e86f3de642454164182c67a",
+    "index": 1,
+    "guid": "2c7d3dd9-94ba-4c31-b9d5-69a34fe38773",
+    "isActive": "правда",
+    "balance": "$ 1,932.26",
+    "picture": "http://placehold.it/32x32",
+    "age": 35,
+    "eyeColor": "коричневый",
+    "name": "Роберта Кэмерон",
+    "gender": "женский пол",
+    "company": "BRAINQUIL",
+    "email": "robertacameron@brainquil.com",
+    "phone": "+1 (935) 566-2006",
+    "address": "671 Albemarle Terrace, Eagleville, Маршалловы Острова, 8802",
+    "about": "Eu irure in dolore tempore Lorem ad nisi deserunt preshenderit dolore. Aliqua excepteur dolore ad veniam sunt eu adipisicing. Anim cillum esse qui nostrud irure cupidatat. Аликуа в вениаме. Enim aliquip cupidatat proident commodo ullamco non incididunt. Id dolor officia elit nisi nulla culpa tempor id qui remaquat non sint aliqua concectetur.\r\n",
+    "registered": "2019-07-28T09: 09: 18 -03: 00",
+    "latitude": 55.242563,
+    "longitude": -94.0,
+    "tags": [
+      "TEMPOR",
+      "Aut Е",
+      "Dolore",
+      "TEMPOR",
+      "veniam",
+      "Амет",
+      "enim"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Флосси Риггс"
+      },
+      {
+        "id": 1,
+        "name": "Хелена Тайлер"
+      },
+      {
+        "id": 2,
+        "name": "Сусана Уильямсон"
+      }
+    ],
+    "greeting": "Привет, Роберта Кэмерон! У вас есть 3 непрочитанных сообщения.",
+    "favoriteFruit": "клубника"
+  },
+  "2": {
+    "_id": "5e86f3de132aff081f23f50e",
+    "index": 2,
+    "guid": "4de3bdd8-f2d6-45dc-9f37-6bee503cdc0f",
+    "isActive": "ложный",
+    "balance": "$ 3,174.47",
+    "picture": "http://placehold.it/32x32",
+    "age": 25,
+    "eyeColor": "синий",
+    "name": "Клэр Рейес",
+    "gender": "женский пол",
+    "company": "ZILPHUR",
+    "email": "clairereyes@zilphur.com",
+    "phone": "+1 (930) 428-3850",
+    "address": "691 Hamilton Walk, Тикондерога, Айдахо, 9509",
+    "about": "Duis pariatur preshenderit aliqua id Lorem deserunt non ullamco cillum. Velit sit nostrud eiusmod sit ad pariatur occaecat ullamco occaecat est. Ullamco enim enim ea preshenderit quis ex sit consctetur officia et duis anim ex nostrud. Aute minim sunt Laborum Proident Commodor Labour Concetetur Adipisicing Adipisicing.\r\n",
+    "registered": "2014-01-08T10: 32: 32 -03: 00",
+    "latitude": 76.590477,
+    "longitude": -6.0,
+    "tags": [
+      "voluptate",
+      "Quis",
+      "стандартное восточное время",
+      "Лаборе",
+      "fugiat",
+      "бывший",
+      "Амет"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Майкл Джарвис"
+      },
+      {
+        "id": 1,
+        "name": "Стефани Кули"
+      },
+      {
+        "id": 2,
+        "name": "Беверли Грант"
+      }
+    ],
+    "greeting": "Привет, Клэр Рейес! У вас 5 непрочитанных сообщений.",
+    "favoriteFruit": "яблоко"
+  },
+  "3": {
+    "_id": "5e86f3decb9a59c5b97686e0",
+    "index": 3,
+    "guid": "ac360bd7-ffef-4169-ad89-929ee8b59ab8",
+    "isActive": "правда",
+    "balance": "$ 2,898.73",
+    "picture": "http://placehold.it/32x32",
+    "age": 28,
+    "eyeColor": "зеленый",
+    "name": "Франсин Адамс",
+    "gender": "женский пол",
+    "company": "PERKLE",
+    "email": "francineadams@perkle.com",
+    "phone": "+1 (991) 539-2785",
+    "address": "717 Amersfort Place, Хендерсонвилль, Айова, 3116",
+    "about": "Fugiat Laboris Est Magna Aliqua Concectetur Nulla Labore Anim в Mollit. Cillum occaecat id dolore ensquat dolor eiusmod tempor enim inididunt Коммодо ex fugiat Pariatur. Enim adipisicing non nulla enim mollit упражнение fugiat occaecat fugiat deserunt. Aliqua Aute Ipsum Est Commodo делать упражнения ID. Velit occaecat elit deserunt в исключительном происшествии ut utrehenderit sit nulla dolor quis deserunt.\r\n",
+    "registered": "2015-06-20T04: 13: 51 -03: 00",
+    "latitude": 21.576431,
+    "longitude": -150.0,
+    "tags": [
+      "consequat",
+      "Элит",
+      "veniam",
+      "Aut Е",
+      "laborum",
+      "excepteur",
+      "Laboris"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Урсула Давенпорт"
+      },
+      {
+        "id": 1,
+        "name": "Уинтерс Макконнелл"
+      },
+      {
+        "id": 2,
+        "name": "Гей бёрнетт"
+      }
+    ],
+    "greeting": "Привет, Франсин Адамс! У вас есть 10 непрочитанных сообщений.",
+    "favoriteFruit": "яблоко"
+  },
+  "4": {
+    "_id": "5e86f3de1690822a93ff2066",
+    "index": 4,
+    "guid": "7daf54c9-dee6-4b79-a9a0-f4f43ee7c141",
+    "isActive": "правда",
+    "balance": "$ 3,166.04",
+    "picture": "http://placehold.it/32x32",
+    "age": 22,
+    "eyeColor": "зеленый",
+    "name": "Лорейн Стейн",
+    "gender": "женский пол",
+    "company": "INTRADISK",
+    "email": "lorainestein@intradisk.com",
+    "phone": "+1 (949) 518-2122",
+    "address": "Центральная авеню 592, Аллендейл, Миннесота, 4403",
+    "about": "Pariatur occaecat deserunt do labouris et et nisi dolore Laborum officia proident ullamco eiusmod. Происхождение Долоре Магна дезеррант Долор Велит Эссе упражнение без волюты иди реперидендерит аликип. Eu dolor ea proident cupidatat aliquip pariatur officia. Магна сит сит купидатат в последующем. Происходит репрезендерит в каждом отдельном случае.\r\n",
+    "registered": "2017-03-02T08: 59: 20 -03: 00",
+    "latitude": -22.0,
+    "longitude": 16.893429,
+    "tags": [
+      "excepteur",
+      "enim",
+      "mollit",
+      "еззе",
+      "сидеть",
+      "Laboris",
+      "aliqua"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Хильда Мак"
+      },
+      {
+        "id": 1,
+        "name": "Волк лукас"
+      },
+      {
+        "id": 2,
+        "name": "Маленький Геберт"
+      }
+    ],
+    "greeting": "Привет, Лорейн Стейн! У вас 5 непрочитанных сообщений.",
+    "favoriteFruit": "клубника"
+  }
+}
